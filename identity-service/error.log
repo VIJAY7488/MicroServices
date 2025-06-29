@@ -1,0 +1,23 @@
+{"level":"error","message":"Validation Error: \"username\" is required","service":"identity-service","timestamp":"2025-06-28T14:33:29.153Z"}
+{"level":"error","message":"Validation Error: \"email\" is required","service":"identity-service","timestamp":"2025-06-28T14:34:30.616Z"}
+{"level":"error","message":"Validation Error: \"password\" length must be at least 6 characters long","service":"identity-service","timestamp":"2025-06-28T14:35:29.531Z"}
+{"level":"error","message":"Error in registerUser: User is not defined","service":"identity-service","timestamp":"2025-06-28T14:35:56.409Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:40:53.637Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.find()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:41:37.963Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:44:47.174Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:46:20.675Z"}
+{"level":"error","message":"Error in registerUser: User is not defined","service":"identity-service","timestamp":"2025-06-28T14:47:10.675Z"}
+{"level":"error","message":"Error in registerUser: crypto.randomBytes is not a function","service":"identity-service","timestamp":"2025-06-28T14:48:22.156Z"}
+{"level":"error","message":"User already exists","service":"identity-service","timestamp":"2025-06-28T14:50:23.396Z"}
+{"level":"error","message":"User already exists","service":"identity-service","timestamp":"2025-06-29T10:22:37.029Z"}
+{"level":"error","message":"User already exists","service":"identity-service","timestamp":"2025-06-29T10:32:06.338Z"}
+{"level":"error","message":"Error in loginUser: Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"identity-service","timestamp":"2025-06-29T10:55:12.776Z"}
+{"level":"error","message":"Error in loginUser: Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"identity-service","timestamp":"2025-06-29T10:57:03.701Z"}
+{"level":"error","message":"Error in loginUser: user.comparePassword is not a function","service":"identity-service","timestamp":"2025-06-29T10:58:21.429Z"}
+{"level":"error","message":"Error in loginUser: user.comparePassword is not a function","service":"identity-service","timestamp":"2025-06-29T10:58:55.632Z"}
+{"level":"error","message":"Error in loginUser: Operation `users.find()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-29T11:00:12.613Z"}
+{"level":"error","message":"Error in loginUser: Password comparison failed","service":"identity-service","timestamp":"2025-06-29T11:00:31.225Z"}
+{"level":"error","message":"Invalid password or email","service":"identity-service","timestamp":"2025-06-29T11:00:47.818Z"}
+{"level":"error","message":"Refresh token missing","service":"identity-service","timestamp":"2025-06-29T13:56:33.938Z"}
+{"level":"error","message":"Error in refreshToken: Cannot destructure property 'refreshToken' of 'req.body' as it is undefined.","service":"identity-service","timestamp":"2025-06-29T13:57:34.395Z"}
+{"level":"error","message":"Refresh token missing","service":"identity-service","timestamp":"2025-06-29T14:01:42.106Z"}

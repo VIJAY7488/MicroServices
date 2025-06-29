@@ -2,3 +2,177 @@
 {"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:26:37.406Z"}
 {"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:27:18.682Z"}
 {"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:27:19.160Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:33:17.510Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:33:18.214Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:33:29.143Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:33:29.143Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:33:29.149Z"}
+{"level":"error","message":"Validation Error: \"username\" is required","service":"identity-service","timestamp":"2025-06-28T14:33:29.153Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:34:30.611Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:34:30.612Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:34:30.614Z"}
+{"level":"error","message":"Validation Error: \"email\" is required","service":"identity-service","timestamp":"2025-06-28T14:34:30.616Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:35:29.527Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:35:29.527Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:35:29.530Z"}
+{"level":"error","message":"Validation Error: \"password\" length must be at least 6 characters long","service":"identity-service","timestamp":"2025-06-28T14:35:29.531Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:35:56.382Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:35:56.382Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:35:56.407Z"}
+{"level":"error","message":"Error in registerUser: User is not defined","service":"identity-service","timestamp":"2025-06-28T14:35:56.409Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:40:42.150Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:40:42.838Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:40:43.627Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:40:43.628Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:40:43.630Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:40:53.637Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:41:26.576Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:41:27.138Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:41:27.954Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:41:27.954Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:41:27.956Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.find()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:41:37.963Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:42:50.559Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:42:51.236Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:44:37.157Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:44:37.157Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:44:37.160Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:44:47.174Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:46:10.670Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:46:10.670Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:46:10.672Z"}
+{"level":"error","message":"Error in registerUser: Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-28T14:46:20.675Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:47:09.709Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:47:10.458Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:47:10.666Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:47:10.667Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:47:10.670Z"}
+{"level":"error","message":"Error in registerUser: User is not defined","service":"identity-service","timestamp":"2025-06-28T14:47:10.675Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:48:20.975Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:48:21.763Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:48:21.961Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:48:21.961Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:48:21.964Z"}
+{"level":"info","message":"User registered successfully","service":"identity-service","timestamp":"2025-06-28T14:48:22.152Z"}
+{"level":"error","message":"Error in registerUser: crypto.randomBytes is not a function","service":"identity-service","timestamp":"2025-06-28T14:48:22.156Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-28T14:50:22.219Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-28T14:50:22.980Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:50:23.353Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:50:23.353Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:50:23.357Z"}
+{"level":"error","message":"User already exists","service":"identity-service","timestamp":"2025-06-28T14:50:23.396Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-28T14:50:43.617Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-28T14:50:43.617Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-28T14:50:43.619Z"}
+{"level":"info","message":"User registered successfully","service":"identity-service","timestamp":"2025-06-28T14:50:43.831Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:19:11.873Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:19:18.411Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-29T10:22:36.958Z"}
+{"level":"info","message":"Request Body: [object Object]","service":"identity-service","timestamp":"2025-06-29T10:22:36.959Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-29T10:22:36.961Z"}
+{"level":"error","message":"User already exists","service":"identity-service","timestamp":"2025-06-29T10:22:37.029Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:27:28.106Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:27:34.839Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:29:47.808Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:29:49.004Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-29T10:31:57.436Z"}
+{"level":"info","message":"Request Body: {\"username\":\"tester1\",\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"identity-service","timestamp":"2025-06-29T10:31:57.436Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-29T10:31:57.442Z"}
+{"level":"info","message":"User registered successfully","service":"identity-service","timestamp":"2025-06-29T10:31:57.751Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/register","service":"identity-service","timestamp":"2025-06-29T10:32:06.117Z"}
+{"level":"info","message":"Request Body: {\"username\":\"tester1\",\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"identity-service","timestamp":"2025-06-29T10:32:06.117Z"}
+{"level":"info","message":"Registeration endpoint hit","service":"identity-service","timestamp":"2025-06-29T10:32:06.119Z"}
+{"level":"error","message":"User already exists","service":"identity-service","timestamp":"2025-06-29T10:32:06.338Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:46:36.279Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:46:42.665Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:50:38.297Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:50:44.441Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:53:14.957Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:53:15.888Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:53:53.207Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:53:54.161Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T10:55:12.773Z"}
+{"level":"info","message":"Request Body: undefined","service":"identity-service","timestamp":"2025-06-29T10:55:12.773Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T10:55:12.775Z"}
+{"level":"error","message":"Error in loginUser: Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"identity-service","timestamp":"2025-06-29T10:55:12.776Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T10:57:02.579Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T10:57:03.694Z"}
+{"level":"info","message":"Request Body: undefined","service":"identity-service","timestamp":"2025-06-29T10:57:03.694Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T10:57:03.698Z"}
+{"level":"error","message":"Error in loginUser: Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"identity-service","timestamp":"2025-06-29T10:57:03.701Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T10:57:03.842Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T10:58:21.367Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\"}","service":"identity-service","timestamp":"2025-06-29T10:58:21.367Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T10:58:21.368Z"}
+{"level":"error","message":"Error in loginUser: user.comparePassword is not a function","service":"identity-service","timestamp":"2025-06-29T10:58:21.429Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T10:58:55.577Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test00\"}","service":"identity-service","timestamp":"2025-06-29T10:58:55.578Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T10:58:55.579Z"}
+{"level":"error","message":"Error in loginUser: user.comparePassword is not a function","service":"identity-service","timestamp":"2025-06-29T10:58:55.632Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T11:00:01.513Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T11:00:02.600Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test00\"}","service":"identity-service","timestamp":"2025-06-29T11:00:02.600Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T11:00:02.602Z"}
+{"level":"error","message":"Error in loginUser: Operation `users.find()` buffering timed out after 10000ms","service":"identity-service","timestamp":"2025-06-29T11:00:12.613Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T11:00:18.137Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T11:00:30.242Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T11:00:31.008Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test00\"}","service":"identity-service","timestamp":"2025-06-29T11:00:31.009Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T11:00:31.011Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T11:00:31.158Z"}
+{"level":"error","message":"Error in loginUser: Password comparison failed","service":"identity-service","timestamp":"2025-06-29T11:00:31.225Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T11:00:45.903Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T11:00:46.885Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test00\"}","service":"identity-service","timestamp":"2025-06-29T11:00:46.885Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T11:00:46.887Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T11:00:47.637Z"}
+{"level":"error","message":"Invalid password or email","service":"identity-service","timestamp":"2025-06-29T11:00:47.818Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T11:01:00.290Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"identity-service","timestamp":"2025-06-29T11:01:00.291Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T11:01:00.292Z"}
+{"level":"info","message":"User logged in successfully","service":"identity-service","timestamp":"2025-06-29T11:01:00.464Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T13:17:42.750Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T13:17:43.555Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T13:17:51.660Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"identity-service","timestamp":"2025-06-29T13:17:51.660Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T13:17:51.665Z"}
+{"level":"info","message":"User logged in successfully","service":"identity-service","timestamp":"2025-06-29T13:17:51.914Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T13:19:33.831Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"identity-service","timestamp":"2025-06-29T13:19:33.831Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T13:19:33.832Z"}
+{"level":"info","message":"User logged in successfully","service":"identity-service","timestamp":"2025-06-29T13:19:34.035Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T13:31:47.342Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T13:31:48.315Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T13:49:16.099Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T13:49:16.996Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T13:51:46.512Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T13:51:47.699Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T13:55:12.414Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T13:55:13.215Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-06-29T13:55:59.231Z"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service","timestamp":"2025-06-29T13:55:59.689Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/login","service":"identity-service","timestamp":"2025-06-29T13:56:02.517Z"}
+{"level":"info","message":"Request Body: {\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"identity-service","timestamp":"2025-06-29T13:56:02.517Z"}
+{"level":"info","message":"Login endpoint hit","service":"identity-service","timestamp":"2025-06-29T13:56:02.519Z"}
+{"level":"info","message":"User logged in successfully","service":"identity-service","timestamp":"2025-06-29T13:56:02.690Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/logout","service":"identity-service","timestamp":"2025-06-29T13:56:33.936Z"}
+{"level":"info","message":"Request Body: {\"name\":\"Add your name in the body\"}","service":"identity-service","timestamp":"2025-06-29T13:56:33.936Z"}
+{"level":"info","message":"Logout endpoint hit","service":"identity-service","timestamp":"2025-06-29T13:56:33.937Z"}
+{"level":"error","message":"Refresh token missing","service":"identity-service","timestamp":"2025-06-29T13:56:33.938Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/refrsh-token","service":"identity-service","timestamp":"2025-06-29T13:57:12.260Z"}
+{"level":"info","message":"Request Body: undefined","service":"identity-service","timestamp":"2025-06-29T13:57:12.260Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/refresh-token","service":"identity-service","timestamp":"2025-06-29T13:57:34.393Z"}
+{"level":"info","message":"Request Body: undefined","service":"identity-service","timestamp":"2025-06-29T13:57:34.394Z"}
+{"level":"info","message":"Refresh token endpoint hit","service":"identity-service","timestamp":"2025-06-29T13:57:34.395Z"}
+{"level":"error","message":"Error in refreshToken: Cannot destructure property 'refreshToken' of 'req.body' as it is undefined.","service":"identity-service","timestamp":"2025-06-29T13:57:34.395Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/refresh-token","service":"identity-service","timestamp":"2025-06-29T14:01:26.083Z"}
+{"level":"info","message":"Request Body: {\"refreshToken\":\"4c106cdf62358d4ecd72ec68c280ad9aa6adee3804de3f35fea3224ab495efe55721c6acd8ea5ded\"}","service":"identity-service","timestamp":"2025-06-29T14:01:26.083Z"}
+{"level":"info","message":"Refresh token endpoint hit","service":"identity-service","timestamp":"2025-06-29T14:01:26.084Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/logout","service":"identity-service","timestamp":"2025-06-29T14:01:42.104Z"}
+{"level":"info","message":"Request Body: {\"name\":\"Add your name in the body\"}","service":"identity-service","timestamp":"2025-06-29T14:01:42.105Z"}
+{"level":"info","message":"Logout endpoint hit","service":"identity-service","timestamp":"2025-06-29T14:01:42.106Z"}
+{"level":"error","message":"Refresh token missing","service":"identity-service","timestamp":"2025-06-29T14:01:42.106Z"}
+{"level":"info","message":"Request Method: POST, Request URL: /api/auth/logout","service":"identity-service","timestamp":"2025-06-29T14:02:48.398Z"}
+{"level":"info","message":"Request Body: {\"refreshToken\":\"adb98555e66f92463e95cae811b5cb1501f5604ccf6feeb6b3f844ec547313d75959c46ac36cf756\"}","service":"identity-service","timestamp":"2025-06-29T14:02:48.398Z"}
+{"level":"info","message":"Logout endpoint hit","service":"identity-service","timestamp":"2025-06-29T14:02:48.399Z"}
+{"level":"info","message":"Refresh token deleted successfully for logout","service":"identity-service","timestamp":"2025-06-29T14:02:48.426Z"}

@@ -38,7 +38,7 @@ app.use(cors()); // Enable CORS for all routes
 
 app.use((req, res, next) => {
     logger.info(`Request Method: ${req.method}, Request URL: ${req.url}`);
-    logger.info(`Request Body: ${(req.body)}`);
+    logger.info(`Request Body: ${JSON.stringify(req.body)}`);
     next();
 });
 
