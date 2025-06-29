@@ -1,0 +1,78 @@
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-29T10:15:38.168Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-29T10:15:38.169Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-29T10:15:38.169Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:17:17.664Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:17:17.664Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:17:17.665Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:19:24.217Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:19:24.217Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:19:24.218Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:22:20.345Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:22:20.345Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:22:20.345Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:22:21.412Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:22:21.412Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:22:21.412Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:22:22.630Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:22:22.630Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:22:22.631Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:22:24.471Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:22:24.471Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:22:24.471Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:22:25.670Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:22:25.670Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:22:25.671Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:23:06.541Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester\",\"email\":\"test@gmail.com\",\"password\":\"test00\"}","service":"api-gateway","timestamp":"2025-06-29T10:23:06.541Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:23:06.542Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-29T10:24:37.042Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-29T10:24:37.044Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-29T10:24:37.044Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:24:40.836Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:24:40.836Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:24:40.837Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:24:42.633Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:24:42.633Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:24:42.634Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:25:22.819Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:25:22.820Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:25:22.821Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:25:30.438Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:25:30.438Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:25:30.438Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:25:31.122Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:25:31.122Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:25:31.123Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-29T10:26:15.748Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-29T10:26:15.749Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-29T10:26:15.749Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:26:17.118Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:26:17.118Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:26:17.119Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-29T10:26:24.805Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-29T10:26:24.806Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-29T10:26:24.806Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:26:35.822Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:26:35.822Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:26:35.823Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-29T10:27:58.345Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-29T10:27:58.346Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-29T10:27:58.347Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:27:59.499Z"}
+{"level":"info","message":"Request body: [object Object]","service":"api-gateway","timestamp":"2025-06-29T10:27:59.499Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:27:59.500Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-29T10:29:40.131Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-29T10:29:40.134Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-29T10:29:40.134Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:29:51.427Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester1\",\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"api-gateway","timestamp":"2025-06-29T10:29:51.428Z"}
+{"level":"error","message":"Proxy error: Cannot set properties of undefined (setting 'Content-Type')","service":"api-gateway","timestamp":"2025-06-29T10:29:51.429Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-29T10:31:56.176Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-29T10:31:56.177Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-29T10:31:56.177Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:31:57.424Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester1\",\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"api-gateway","timestamp":"2025-06-29T10:31:57.424Z"}
+{"level":"info","message":"Proxying request to identity service: POST /v1/auth/register 201","service":"api-gateway","timestamp":"2025-06-29T10:31:57.860Z"}
+{"level":"info","message":"Request: POST /v1/auth/register","service":"api-gateway","timestamp":"2025-06-29T10:32:06.114Z"}
+{"level":"info","message":"Request body: {\"username\":\"tester1\",\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"api-gateway","timestamp":"2025-06-29T10:32:06.115Z"}
+{"level":"info","message":"Proxying request to identity service: POST /v1/auth/register 400","service":"api-gateway","timestamp":"2025-06-29T10:32:06.340Z"}
