@@ -245,3 +245,16 @@
 {"level":"info","message":"Request: POST /v1/auth/logout","service":"api-gateway","timestamp":"2025-06-29T14:02:48.394Z"}
 {"level":"info","message":"Request body: {\"refreshToken\":\"adb98555e66f92463e95cae811b5cb1501f5604ccf6feeb6b3f844ec547313d75959c46ac36cf756\"}","service":"api-gateway","timestamp":"2025-06-29T14:02:48.395Z"}
 {"level":"info","message":"Proxying request to identity service: POST /v1/auth/logout 200","service":"api-gateway","timestamp":"2025-06-29T14:02:48.429Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-30T18:40:04.544Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-30T18:40:04.546Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-30T18:40:04.546Z"}
+{"level":"info","message":"Request: POST /v1/auth/login","service":"api-gateway","timestamp":"2025-06-30T18:40:09.270Z"}
+{"level":"info","message":"Request body: {\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"api-gateway","timestamp":"2025-06-30T18:40:09.270Z"}
+{"level":"error","message":"Proxy error: connect ECONNREFUSED 127.0.0.1:3001","service":"api-gateway","timestamp":"2025-06-30T18:40:09.274Z"}
+{"level":"info","message":"Request: POST /v1/auth/login","service":"api-gateway","timestamp":"2025-06-30T18:40:47.460Z"}
+{"level":"info","message":"Request body: {\"email\":\"test1@gmail.com\",\"password\":\"test100\"}","service":"api-gateway","timestamp":"2025-06-30T18:40:47.460Z"}
+{"level":"info","message":"Proxying request to identity service: POST /v1/auth/login 200","service":"api-gateway","timestamp":"2025-06-30T18:40:53.176Z"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway","timestamp":"2025-06-30T19:06:54.091Z"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway","timestamp":"2025-06-30T19:06:54.092Z"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway","timestamp":"2025-06-30T19:06:54.092Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","service":"api-gateway","timestamp":"2025-06-30T19:06:54.092Z"}
