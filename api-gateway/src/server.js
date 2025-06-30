@@ -69,6 +69,7 @@ const proxyOptions = {
 app.use('/v1/auth', proxy(process.env.IDENTITY_SERVICE_URL, {
     ...proxyOptions,
     proxyReqBodyDecorator: (proxyReqOpts, srcReq) => {
+        
         return proxyReqOpts;
     },
     userResDecorator: (proxyRes, proxyResData, userReq, userRes) => {
